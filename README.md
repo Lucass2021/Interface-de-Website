@@ -55,8 +55,8 @@ Este projeto atualmente está finalizado.
 
 ## :heavy_check_mark: A ser adicionado
 
-- Dark Mode
-- Botão de apagar todas as transações
+- Abas no Header
+- Extensão do Body
 
 ---
 
