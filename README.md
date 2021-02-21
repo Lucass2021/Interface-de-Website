@@ -2,28 +2,28 @@
     <img src="logo0.png"/>
 </h1>
 
-# Sumário
+# Summary
 
-- [Descrição](#📝-Descrição)
-- [Projeto](#💻-Projeto)
-- [Tecnologias utilizadas](#🚀-Tecnologias-utilizadas)
-- [Status do Projeto](#🎯-Status-do-Projeto)
-
----
-
-## 📝 Descrição
-
->💻 A interface de Website é uma aplicação, onde é visualizar a homepage de um restaurante ficticio, o projeto foi criado com o objetivo de praticar conceitos de HTML e CSS.
-
-
+- [Description](#📝-Description)
+- [Project](#💻-Project)
+- [Technologies](#🚀-Technologies)
+- [Project Stats](#🎯-Project-Stats)
 
 ---
 
-## 💻 Projeto
+## 📝 Description
 
-* <b>Ícones: É possível acessar as logos presentes nos sites.
+>💻 The Website interface is an application, where you can view the homepage of a restaurant, the project was created to practice HTML and CSS concepts.
 
-* <b>Design</b>: É possível mover as imagens em loop no centro da tela.
+
+
+---
+
+## 💻 Project
+
+* <b>Icons: It is possible to access the websites present on the header icons.
+
+* <b>Design</b>: The background images are in loop, but is possible to manually swipe them.
 
 
 <h1 align="center">
@@ -34,8 +34,8 @@
 
 ---
 
-## 🚀 Tecnologias utilizadas
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies
+This project was developed with the following technologies:
 * VS Code;
 * HTML;
 * CSS;
@@ -45,33 +45,32 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## 🎯 Status do Projeto
+## 🎯 Project Stats
 
-Este projeto atualmente está finalizado.
+This project is currently finished.
 
-
-
----
-
-## :heavy_check_mark: A ser adicionado
-
-- Abas no Header
-- Extensão do Body
 
 ---
 
-## :handshake: Seja um contribuidor
+## :heavy_check_mark: To do list
 
-Tem alguma ideia que poderia alavancar ainda mais o projeto, e deseja implementar? É simples!
-
-1. Faça um fork do projeto
-2. Modifique o que achar necessário
-3. Faça o commit das mudanças
-4. Crie um Pull Request
+- Header Improvement and options
+- Extra Body Content
 
 ---
 
-## Autor
+## :handshake: Become a Contributor
+
+Do you have any ideas that you want to implement it? It's simple!
+
+1. Fork the project
+2. Modify what you think is necessary
+3. Commit the changes
+4. Create a Pull Request
+
+---
+
+## Author
 
 - Projetos - [Lucass2021](https://github.com/Lucass2021)
 
